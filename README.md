@@ -1,0 +1,2 @@
+# realm
+Redis Database Explorer
